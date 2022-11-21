@@ -1,0 +1,34 @@
+* {
+    margin: 0;
+  }
+  body {
+    background-color: rgb(26, 86, 54);
+    color: whitesmoke;
+  }
+
+  .textarea{
+    width: 90%;
+    font-size: 24px;
+    padding: 20px;
+    border-radius: 0px 10px;
+    outline: none;
+  }
+  .textarea:focus {
+    box-shadow: 2px 2px 2px 2px #083f52;
+  }
+  #preview {
+
+    padding: 50px;
+    text-align: left;
+    background-color: rgb(238, 247, 188);
+    color: #343333;
+    border: 1px solid rgb(249, 109, 57);
+    box-shadow: 2px 2px 2px 2px grey;
+    border-radius: 10px 0px;
+  }
+ 
+
+
+
+
+
